@@ -1,0 +1,5 @@
+npm i cors -D
+npm install express-jwt
+
+初始化
+npm init --yes
